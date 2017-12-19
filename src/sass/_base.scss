@@ -1,0 +1,13 @@
+// Pramod AJ
+// Base Partial
+
+* {
+    margin:0;
+    padding: 0;
+    /* Change to box model so the margin and padding are no longer added */
+    box-sizing: border-box;
+  }
+  
+  body {  
+    padding:30px; /*Add a padding around the entire body*/
+  }

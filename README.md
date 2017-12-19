@@ -25,3 +25,11 @@ var config = {
 }
 ```
 
+- Install `angularfire2` and `firebase` as `dependencies`
+
+```js
+npm install --save angularfire2 firebase
+```
+
+- Include the Module dependencies in the `app.module.ts` file
+
